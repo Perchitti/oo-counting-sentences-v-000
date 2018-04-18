@@ -8,6 +8,7 @@ def sentence(sentence)
   self.end_with?(".")
   return true
 end
+end
 
 
 
