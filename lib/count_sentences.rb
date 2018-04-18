@@ -16,8 +16,8 @@ def exclamation?
 end
 
 def count_sentences
-self.split.count
-binding.pry
+complex_string = self.split(/[.!?]+/)
+complex_string.count
 
 end
 
