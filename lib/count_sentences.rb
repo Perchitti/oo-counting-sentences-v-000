@@ -1,4 +1,4 @@
-
+require 'pry'
 class String
 
 
@@ -16,9 +16,8 @@ def exclamation?
 end
 
 def count_sentences
-
 self.split.count
-
+binding.pry
 
 end
 
