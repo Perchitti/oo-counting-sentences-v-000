@@ -1,1 +1,12 @@
 
+class String
+
+
+
+
+
+
+
+
+
+end
