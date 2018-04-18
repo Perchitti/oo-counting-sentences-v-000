@@ -3,7 +3,7 @@ class String
 
 
 def sentence
-  self.end_with?(".") = true
+  self.end_with?(".") == true
 end
 
 
