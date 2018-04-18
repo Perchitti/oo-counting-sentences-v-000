@@ -11,6 +11,9 @@ def question?
 end
 
 
+def exclamation?
+  self.end_with("!")
+end
 
 
 
