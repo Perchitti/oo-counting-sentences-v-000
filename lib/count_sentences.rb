@@ -2,9 +2,8 @@
 class String
 
 
-def sentence(sentence)
-  self.end_with?(".")
-  true
+def sentence
+  self.end_with?(".") = true
 end
 
 
