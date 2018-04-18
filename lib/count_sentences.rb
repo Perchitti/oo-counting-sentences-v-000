@@ -1,10 +1,8 @@
 
 class String
 
-attr_accessor :sentence
 
-
-def sentence(sentence)
+def sentence
   self.end_with?(".")
   return true
 end
