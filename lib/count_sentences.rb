@@ -17,7 +17,7 @@ end
 
 def count_sentences
 
-
+self.splt.count
 
 
 
